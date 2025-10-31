@@ -55,7 +55,7 @@ def fusion_calculator(traps, rate, probability, fuel="DT"):
 
 ## Contributing
 
-Contributions to this project are welcome. If you find any issues or have suggestions for improvements, please open an issue or submit a pull request on the [GitHub repository](https://github.com/your-username/fusion-power-calculator).
+Contributions to this project are welcome. If you find any issues or have suggestions for improvements, please open an issue or submit a pull request on the [GitHub repository](https://github.com/Vikas-AI968/Fusion_Power_Calculator-Arc-Reactor-Technology-).
 
 ## License
 
